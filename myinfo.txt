@@ -1,9 +1,4 @@
 Hello Team,
-<<<<<<< HEAD
-my name is kajal and i am from maharashtra
-=======
 my name is kajal
 I like cartoon
->>>>>>> development
 
-change by devlopment
